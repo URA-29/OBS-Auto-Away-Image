@@ -1,6 +1,6 @@
 # OBS Auto Away Image
 
-OBS Studioで表示した「離席中」「BRB」などのソースを、指定時間後に自動で非表示にするLuaスクリプトです。
+OBS Studioで表示している「離席中」「BRB」などのソースを、指定した時間が経過すると自動で非表示にするLuaスクリプトです。
 
 ## Features
 
